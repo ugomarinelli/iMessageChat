@@ -7,32 +7,32 @@
 		<key>IQKeyboardManagerSwift.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>Pods-iMessageChat.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>Pods-iMessageChatTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1520003FEBEC114D6C84F832AFEDB994</key>
+		<key>4DC059E04CBA98AEDDB5C34E02D551E9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>561F81DCE7F8276B62F9732DF9C3F7BA</key>
+		<key>5E4A1B8D964E64AF1B9C6EE01C72CD94</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9FB2466743E6BAA3F13391900879D2E0</key>
+		<key>E2BDA6E49B36A1AF75CB83A9BDA5EDA0</key>
 		<dict>
 			<key>primary</key>
 			<true/>

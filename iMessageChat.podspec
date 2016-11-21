@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
  
   # 1
   s.platform = :ios
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.3'
   s.name = "iMessageChat"
   s.summary = "iMessageChat lets a user select an ice cream flavor."
   s.requires_arc = true
@@ -33,10 +33,10 @@ Pod::Spec.new do |s|
   # For example,
   # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
  
- 
+
   # 7
   s.framework = "UIKit"
-  s.framework = "IQKeyboardManagerSwift"
+  s.dependency 'IQKeyboardManagerSwift'
 
  
   # 8
