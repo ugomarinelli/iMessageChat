@@ -1,0 +1,6 @@
+framework module Pods_iMessageChat {
+  umbrella header "Pods-iMessageChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
